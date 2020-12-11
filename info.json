@@ -1,12 +1,11 @@
 {
-	"name": "DarkNight",
+	"name": "DarkNight_fix",
 	"version": "1.0.0",
-	"title": "Dark Night",
+	"title": "Dark Night (Fixed for 1.1)",
 	"description": "Make night completely dark.",
-	"author": "David Skrundz",
-	"contact": "david@skrundz.ca",
-	"homepage": "https://github.com/DavidSkrundz/DarkNight",
-	"factorio_version": "1.0",
+	"author": "David Skrundz (updated by kryojenik)",
+	"homepage": "",
+	"factorio_version": "1.1",
 	"dependencies": [
 		"? base"
 	]

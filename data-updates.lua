@@ -1,5 +1,5 @@
 local function convertPath(path)
-  return path:gsub("__core__", "__DarkNight__") -- Mod change
+  return path:gsub("__core__", "__DarkNight_fix__") -- Mod change
 end
 
 for _, table in pairs(data.raw["utility-constants"]["default"].daytime_color_lookup) do
